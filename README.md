@@ -13,5 +13,12 @@
 
 **kvs(key value store)를 struct로 구현하여 IO system에 활용**
 
+**예기치 못한 시스템 interrupt(정전 등) 상황에서 db를 복구하는 프로그램**
+
 > get,set함수로 value를 읽거나 저장
+ 
 > main함수에서 file I/O를 진행
+
+> open, close함수로 프로그램 시작/종료
+
+ 
