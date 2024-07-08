@@ -12,3 +12,6 @@
 **static library와 dynamic library를 활용한 코드 모두 작성**
 
 **kvs(key value store)를 struct로 구현하여 IO system에 활용**
+
+> get,set함수로 value를 읽거나 저장
+> main함수에서 file I/O를 진행
